@@ -1,0 +1,20 @@
+newmtl ___Default
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ..\textures\0000.tga
+Ni 1.50
+newmtl ___Default2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ..\textures\0001.tga
+Ni 1.50
+newmtl myglass
+illum 4
+Kd 0.16 0.19 0.21
+Ka 0.00 0.00 0.00
+Tf 0.24 0.24 0.24
+Ni 1.50
